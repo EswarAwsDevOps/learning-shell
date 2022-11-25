@@ -1,12 +1,5 @@
-echo print dollar
+THIS IS ESWAR REDDDY 
 
 
 
-
-
-this is the learning of the shell with aws 
-aws in it
-hi  hihh
-
-
-hti project is made up for fjaosdhiKJBHA
+I AM A DEVOPS ENGINEER 
