@@ -1,7 +1,1 @@
-# learning shell 
-this is eswar reddy
-i am learning shell
-
-
-shell topics
-
+echo print dollar
