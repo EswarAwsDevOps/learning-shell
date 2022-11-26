@@ -1,6 +1,6 @@
-a=10
+a=5
 
-if [ $a -gt 5 ]
+if [ $a -gt 3 ]
 then
-  echo yes $a greater than 5
+  echo no $a greater than 5
 fi
