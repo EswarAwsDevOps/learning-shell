@@ -1,5 +1,5 @@
 a=1
-echo$?
+echo $?
 if [ $a -gt 3 ]
 then
   echo no $a greater than 5
