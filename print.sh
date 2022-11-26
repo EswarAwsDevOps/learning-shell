@@ -1,1 +1,2 @@
-echo "hello world"
+$ b = (10 20)
+$echo $ {b[0]}
